@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ### Github Stats
-- https://github.com/anuraghazra/github-readme-stats
+- [Stats Block](https://github.com/anuraghazra/github-readme-stats)
+- [LeetCode Badge](https://github.com/cascandaliato/leetcode-badge)
 
 ### Emoji Sources
 - https://github.com/ikatyang/emoji-cheat-sheet
