@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 - 📫 You can reach me on LinkedIn or my [website](goldenramenbowl.com)
 - ⚡ Fun fact: 
 
+### Github Stats
+- https://github.com/anuraghazra/github-readme-stats
+
 ### Emoji Sources
 - https://github.com/ikatyang/emoji-cheat-sheet
 - https://gist.github.com/rxaviers/7360908
