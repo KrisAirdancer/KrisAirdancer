@@ -1,6 +1,20 @@
+<h1 align="center">Greetings 👋 I'm Chris</h1>
+<h3 align="center">Computer Science student from USA</h3>
+
+
 ### Greetings 👋 I'm Chris
+Computer Science Student in USA 
+- 🔭 I’m currently working on a BS in Computer Science
+- 🌳 I’m currently learning Java & pen sketching
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
+- ⚡ Fun fact: 
+
+### My Newbie Tech Stack
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
 
 <!--
+THIS SECTION DOESN'T APPEAR IN THE PREVIEW OR ON GITHUB - use it for notes & reference material
+
 **KrisAirdancer/KrisAirdancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -8,7 +22,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a BS in Computer Science
 - 🌱 I’m currently learning Java & pen sketching
 - 📫 You can reach me on LinkedIn or my [website](goldenramenbowl.com)
-- ⚡ Fun fact: ...
-- Test line
-- Test line made in GitHub
+- ⚡ Fun fact: 
+
+[A place to get logos for this README - see below for how to insert](https://www.vectorlogo.zone/)
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+
+
 -->
