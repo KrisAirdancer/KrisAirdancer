@@ -9,12 +9,7 @@
 
 ### My Newbie Tech Stack
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
-
----
-
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisAirdancer)](https://github.com/anuraghazra/github-readme-stats)
  
-
 <!--
 THIS SECTION DOESN'T APPEAR IN THE PREVIEW OR ON GITHUB - use it for notes & reference material
 
@@ -29,6 +24,9 @@ Here are some ideas to get you started:
 
 ### Github Stats
 - [Stats Block](https://github.com/anuraghazra/github-readme-stats)
+My Stats Block
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisAirdancer)](https://github.com/anuraghazra/github-readme-stats)
+Other Stats Stuff
 - [LeetCode Badge](https://github.com/cascandaliato/leetcode-badge)
 
 ### Emoji Sources
