@@ -12,7 +12,7 @@
 
 ---
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?KrisAirdancer=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisAirdancer)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!--
