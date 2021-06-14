@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 I'm Chris</h1>
-<h3 align="center">Computer Science student from USA</h3>
+<h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 🔨 I’m currently working on a **BS in Computer Science**
 - 🌳 I’m currently learning Java & pen sketching
@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java & pen sketching
 - 📫 You can reach me on LinkedIn or my [website](goldenramenbowl.com)
 - ⚡ Fun fact: 
+
+### Emoji Sources
+- https://github.com/ikatyang/emoji-cheat-sheet
+- https://gist.github.com/rxaviers/7360908
 
 [A place to get logos for this README - see below for how to insert](https://www.vectorlogo.zone/)
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
