@@ -5,8 +5,15 @@
 - 🌳 I’m currently learning Java & pen sketching
 - ✉️ You can reach me on [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
+---
+
 ### My Newbie Tech Stack
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
+
+---
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?KrisAirdancer=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 <!--
 THIS SECTION DOESN'T APPEAR IN THE PREVIEW OR ON GITHUB - use it for notes & reference material
