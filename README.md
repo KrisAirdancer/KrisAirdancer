@@ -4,7 +4,8 @@
 - 🔨 I’m currently working on a **BS in Computer Science**
 - 🌳 I’m currently learning Java and Data Science in Python
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston), my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/), or 🦜 [Twitter](https://twitter.com/KrisAirdancer)
-- Currently doing 🥇 #100DaysOfCode and 📊 #66DaysOfData - You can check my progress on 🦜 [Twitter](https://twitter.com/KrisAirdancer)
+
+- Currently participating 🥇 #100DaysOfCode and 📊 #66DaysOfData - You can check my progress on 🦜 [Twitter](https://twitter.com/KrisAirdancer)
 
 ---
 
