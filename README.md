@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 🔨 I’m currently working on a **BS in Computer Science**
-- 🌳 I’m currently learning Java, practicing Algorithms & Data Structures, and working through the freeCodeCamp curriculum.
+- 🌳 I’m currently learning Java, practicing Algorithms & Data Structures, and working on some side projects.
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston), my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/), or 🦜 [Twitter](https://twitter.com/KrisAirdancer)
 
 - Currently participating 🥇 #100DaysOfCode - You can check my progress on 🦜 [Twitter](https://twitter.com/KrisAirdancer)
