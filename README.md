@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 🔨 I’m currently working on a **BS in Computer Science**
-- 🌳 I’m currently learning Java, practicing Algorithms & Data Structures, and working on some side projects.
+- 🌳 I’m currently learning Java and Python, practicing Algorithms & Data Structures, and working on some side projects.
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
