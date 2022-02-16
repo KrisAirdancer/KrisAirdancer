@@ -8,8 +8,7 @@
 ---
 
 ### My Newbie Tech Stack
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
-<img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/><img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp" width="40" height="40"/> 
 
  
 <!--
