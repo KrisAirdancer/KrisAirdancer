@@ -2,13 +2,15 @@
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 🔨 I’m currently working on a **BS in Computer Science**
-- 🌳 I’m currently learning Java and Python, practicing Algorithms & Data Structures, and working on some side projects.
+- 🌳 I’m currently learning C#.
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
 
 ### My Newbie Tech Stack
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
+<img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp" width="40" height="40"/> 
+
  
 <!--
 THIS SECTION DOESN'T APPEAR IN THE PREVIEW OR ON GITHUB - use it for notes & reference material
