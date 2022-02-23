@@ -1,8 +1,12 @@
 <h1 align="center">Greetings 👋 I'm Chris</h1>
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
-- 🔨 I’m currently working on a **BS in Computer Science**
-- 🌳 I’m currently learning C#.
+- 📚 I’m currently working on a **BS in Computer Science**
+- 🌱 I’m currently enrolled in...
+    - Software Practice I
+    - Discrete Structures
+    - Engineering Statistics
+- 🧮 I'm also [practicing algorithms](https://github.com/KrisAirdancer/Algs-Practice)
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
