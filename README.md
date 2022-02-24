@@ -6,7 +6,7 @@
     - Software Practice I
     - Discrete Structures
     - Engineering Statistics
-- 🧮 I'm also [practicing algorithms](https://github.com/KrisAirdancer/Algs-Practice)
+- 🧮 I'm also [practicing algorithms](https://github.com/KrisAirdancer/Algs-Practice). Challenges Completed: 26
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
