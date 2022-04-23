@@ -7,7 +7,7 @@
     - Discrete Structures
     - Engineering Statistics
 - 🧮 I'm also [practicing algorithms](https://github.com/KrisAirdancer/Algs-Practice)
-    - Challenges Completed: 52
+    - Challenges Completed: 53
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
