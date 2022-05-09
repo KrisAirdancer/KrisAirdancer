@@ -2,10 +2,7 @@
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 📚 I’m currently working on a **BS in Computer Science**
-- 🌱 I’m currently enrolled in...
-    - Software Practice I
-    - Discrete Structures
-    - Engineering Statistics
+- 🌱 I’m currently interning at [Bluestaq](https://www.bluestaq.com/).
 - 🧮 I'm also [practicing algorithms](https://github.com/KrisAirdancer/Algs-Practice)
     - Challenges Completed: 58
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
