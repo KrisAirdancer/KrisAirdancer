@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 📚 I’m currently working on a **BS in Computer Science**
-- 🌱 I’m currently interning at [Bluestaq](https://www.bluestaq.com/).
+- 🌱 I’m currently studying Computer Science at The University of Utah.
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
