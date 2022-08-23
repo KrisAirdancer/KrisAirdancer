@@ -8,10 +8,20 @@
 ---
 
 ### My Newbie Tech Stack
-- Languages
+- Backend
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/><img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp logo" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js logo"  width="40" height="40"/>
- </p>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/><img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp logo" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js logo"  width="40" height="40"/>
+</p>
+
+- Frontend
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/>
+</p>
+ 
+ - Devops
+ 
+ <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker logo" width="40" height="40"/>
 
 - Source Control
 <p align="left">
