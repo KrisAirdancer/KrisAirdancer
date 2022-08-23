@@ -16,7 +16,7 @@
 - Frontend
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js logo width="40" height="40"/>
 </p>
  
  - Devops
