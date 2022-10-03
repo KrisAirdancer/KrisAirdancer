@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently working on...
     - 📚 A **BS in Computer Science** at The University of Utah.
-    - 🧰 [terminal-budget](https://github.com/KrisAirdancer/terminal-budget)
     - ⌨️ Practicing [algorithms](https://github.com/KrisAirdancer/Algs-Practice)
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
@@ -12,18 +11,14 @@
 ### My Newbie Tech Stack
 - Backend
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/><img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp logo" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js logo"  width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/>
 </p>
 
 - Frontend
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js logo width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/>
 </p>
- 
- - Devops
- 
- <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker logo" width="40" height="40"/>
 
 - Source Control
 <p align="left">
@@ -36,6 +31,20 @@
 THIS SECTION DOESN'T APPEAR IN THE PREVIEW OR ON GITHUB - use it for notes & reference material
 
 **KrisAirdancer/KrisAirdancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+C-SHARP AND NODEJS LOGOS
+<img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp logo" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js logo"  width="40" height="40"/>
+
+ - Devops
+ DOCKER LOGO
+ <P>
+ <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker logo" width="40" height="40"/>
+ </p>
+
+VUEJS LOGO
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js logo width="40" height="40"/>
+
+
 
 Here are some ideas to get you started:
 
