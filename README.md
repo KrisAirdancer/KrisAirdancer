@@ -17,7 +17,7 @@
 - Frontend
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/>
+<img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp logo" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/>
 </p>
 
 - Source Control
