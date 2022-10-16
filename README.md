@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently working on...
     - 📚 A **BS in Computer Science** at The University of Utah.
+    - A [clone](https://github.com/KrisAirdancer/vidya-clone) of the [Vidya Intarweb Playlist](https://www.vipvgm.net/)
     - ⌨️ Practicing [algorithms](https://github.com/KrisAirdancer/Algs-Practice)
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
