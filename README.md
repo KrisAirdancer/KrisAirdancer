@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋 I'm Chris</h1>
+<h1 align="center">Greetings 👋 I'm Sasha</h1>
 <h3 align="center">Computer Science student from the United States :us:</h3>
 
 - 🌱 I’m currently working on...
