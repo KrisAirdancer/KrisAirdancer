@@ -8,7 +8,7 @@
     - ⌨️ Practicing [algorithms](https://github.com/KrisAirdancer/Algs-Practice)
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
-**CS 3390**: [Here](https://krisairdancer.github.io/cs-3390-group-numbers/) are the photos you've been looking for.
+**CS 3390**: [Here](https://krisairdancer.github.io/cs-3390-group-numbers/) are the photos you are looking for.
 
 ---
 
