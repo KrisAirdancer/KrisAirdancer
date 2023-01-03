@@ -6,9 +6,10 @@
     - A [clone](https://github.com/KrisAirdancer/vidya-clone) of the [Vidya Intarweb Playlist](https://www.vipvgm.net/)
     - A portfolio [website](https://krisairdancer.com) - [repo](https://github.com/KrisAirdancer/krisairdancer-dot-com)
     - ⌨️ Practicing [algorithms](https://github.com/KrisAirdancer/Algs-Practice)
-- ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
+- ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston)
+- My portfolio is at [krisairdancer.com](https://krisairdancer.com)
 
-**CS 3390**: [Here](https://krisairdancer.github.io/cs-3390-group-numbers/) are the photos you are looking for.
+**CS 3390**: [Here](https://krisairdancer.com/3390-group-nums/) are the photos you are looking for. ([alt](https://krisairdancer.github.io/cs-3390-group-numbers/))
 
 ---
 
