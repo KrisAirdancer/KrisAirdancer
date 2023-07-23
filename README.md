@@ -5,7 +5,6 @@
     - 📚 A **BS in Computer Science** at The University of Utah.
     - A [clone](https://github.com/KrisAirdancer/vidya-clone) of the [Vidya Intarweb Playlist](https://www.vipvgm.net/)
     - A portfolio [website](https://krisairdancer.com) - [repo](https://github.com/KrisAirdancer/krisairdancer-dot-com)
-    - ⌨️ Practicing [algorithms](https://github.com/KrisAirdancer/Algs-Practice)
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston)
 - My portfolio is at [krisairdancer.com](https://krisairdancer.com)
 
@@ -14,6 +13,7 @@
 ### My Newbie Tech Stack
 - Backend
 <p align="left">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Java logo" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/>
 </p>
 
