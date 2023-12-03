@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently working on...
     - 📚 A **BS in Computer Science** at The University of Utah.
-    - A portfolio [website](https://krisairdancer.com) - [repo](https://github.com/KrisAirdancer/krisairdancer-dot-com)
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston)
 - My portfolio is at [krisairdancer.com](https://krisairdancer.com)
 
