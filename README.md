@@ -7,12 +7,12 @@
 - My portfolio is at [krisairdancer.com](https://krisairdancer.com)
 
 ---
-
+<!--
 ### My Newbie Tech Stack
 - Backend
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Java logo" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/c-sharp/c-sharp-icon.svg" alt="Java logo" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C-Sharp logo" width="40" height="40"/>
 </p>
 
 - Frontend
@@ -25,7 +25,7 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Java" width="40" height="40"/>
 </p>
- 
+ -->
  
  
 <!--
