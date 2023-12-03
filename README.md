@@ -12,7 +12,7 @@
 - Backend
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Java logo" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/c-sharp/c-sharp-icon.svg" alt="Java logo" width="40" height="40"/>
 </p>
 
 - Frontend
