@@ -1,8 +1,6 @@
 <h1 align="center">Greetings 👋 I'm Chris</h1>
-<h3 align="center">Computer Science student from the United States :us:</h3>
+<h3 align="center">Recent Computer Science grad from the United States :us:</h3>
 
-- 🌱 I’m currently working on...
-    - 📚 A **BS in Computer Science** at The University of Utah.
 - ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston)
 - My portfolio is at [krisairdancer.com](https://krisairdancer.com)
 
