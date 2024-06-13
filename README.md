@@ -1,8 +1,8 @@
 <h1 align="center">Greetings 👋 I'm Chris</h1>
 <h3 align="center">Recent Computer Science grad from the United States :us:</h3>
 
-- ✉️ You can reach me on 🔗 [LinkedIn](www.linkedin.com/in/chris-s-marston)
-- My portfolio is at [krisairdancer.com](https://krisairdancer.com)
+<h3 align="center">✉️ You can reach me on 🔗 <a href="www.linkedin.com/in/chris-s-marston">LinkedIn</a></h3>
+<h3 align="center">My portfolio is at <a href="https://csmarston.com">csmarston.com</a></h3>
 
 <!--
 ---
